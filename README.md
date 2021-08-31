@@ -17,6 +17,7 @@
 - WebSockets 🌍
 - Bootstrap/TailwindCSS
 - PostgreSQL (Sequelize)
+- Jest 🤡
 
 ## 🚩 Languages 🚩
 
