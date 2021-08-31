@@ -7,6 +7,10 @@
 - Express
 - Docker 🐳
 - RESTfull 🍬
+- Ajax/FetchAPI
+- WebSockets 🌍
+- Bootstrap/TailwindCSS
+- PostgreSQL (Sequelize)
 
 ## 🚩 Languages 🚩
 
