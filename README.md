@@ -10,6 +10,7 @@
 - Redux
 - NextJS ⭐️
 - GraphQL
+- Apollo Client
 - RESTful
 - NodeJS
 - Express
