@@ -4,25 +4,22 @@
 
 ## 💀 Skills 💀
 
-- HTML/CSS
+- CSS/HTML
 - JavaScript
-- React (Redux) 🚀
-- Node.js
+- React
+- Redux
+- NextJS ⭐️
+- GraphQL
+- RESTful
+- NodeJS
 - Express
-- Docker 🐳
-- RESTfull 🍬
-- Ajax/FetchAPI
-- WebSockets 🌍
-- Bootstrap/TailwindCSS
-- PostgreSQL (Sequelize)
-- Jest 🤡
+- PostgreSQL
+- TypeScript
+- Styled-Components 💅🏾
+
 
 ## 🚩 Languages 🚩
 
 - Russian 🇷🇺
 - English 🇬🇧
 - JavaScript? 😁
-
-## 😻 My cat 😻
-
-![Cat](/img/cat-img.jpg)
