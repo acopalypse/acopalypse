@@ -6,6 +6,7 @@
 
 - CSS/HTML
 - JavaScript
+- TypeScript
 - React
 - Redux
 - NextJS ⭐️
@@ -15,8 +16,8 @@
 - NodeJS
 - Express
 - PostgreSQL
-- TypeScript
 - Styled-Components 💅🏾
+- Strapi CMS
 
 
 ## 🚩 Languages 🚩
