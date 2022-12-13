@@ -1,4 +1,4 @@
-[Telegram](https://t.me/acopalypse 'https://t.me/acopalypse'), [VK](https://vk.com/dumasa 'https://vk.com/dumasa')
+[Telegram](https://t.me/acopalypse 'https://t.me/acopalypse')
 
 ## 
 - CSS/HTML
