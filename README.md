@@ -15,3 +15,4 @@
 - PostgreSQL
 - Styled-Components 💅🏾
 - Strapi CMS
+- Svelte 💥
