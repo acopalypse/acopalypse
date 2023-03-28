@@ -1,7 +1,7 @@
 [Telegram](https://t.me/acopalypse 'https://t.me/acopalypse')
 
 ## 
-- CSS/HTML
+- CSS/SASS/HTML
 - JavaScript
 - TypeScript
 - React
