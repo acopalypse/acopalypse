@@ -2,17 +2,12 @@
 
 ## 
 - CSS/SASS/HTML
-- JavaScript
-- TypeScript
-- React
-- Redux
-- NextJS ⭐️
-- GraphQL
-- Apollo Client
-- RESTful
+- CSS-in-JS/Styled-Components 💅🏾
+- JavaScript/TypeScript ⭐️  
+- Svelte/React 💥
+- NextJS/Svelte Kit
+- GraphQL/REST
 - NodeJS
-- Express
-- PostgreSQL
-- Styled-Components 💅🏾
-- Strapi CMS
-- Svelte 💥
+- PostgreSQL/MySQL
+- Strapi CMS 👀
+ 
