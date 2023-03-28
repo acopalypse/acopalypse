@@ -1,6 +1,5 @@
 [Telegram](https://t.me/acopalypse 'https://t.me/acopalypse')
 ##
-
 Working in [Softmotions](https://softmotions.com/ 'https://softmotions.com/')
 ## 
 - CSS/SASS/HTML
@@ -12,3 +11,4 @@ Working in [Softmotions](https://softmotions.com/ 'https://softmotions.com/')
 - NodeJS
 - PostgreSQL/MySQL
 - Strapi CMS 👀
+##
