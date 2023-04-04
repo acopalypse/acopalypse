@@ -6,7 +6,7 @@ Working in [Softmotions](https://softmotions.com/ 'https://softmotions.com/')
 - CSS-in-JS/Styled-Components 💅🏾
 - JavaScript/TypeScript ⭐️  
 - Svelte/React 💥
-- NextJS/Svelte Kit
+- NextJS/Svelte Kit/Gatsby
 - GraphQL/REST
 - NodeJS
 - PostgreSQL/MySQL
