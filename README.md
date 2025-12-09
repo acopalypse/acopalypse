@@ -2,13 +2,14 @@
 ##
 Working in [Softmotions](https://softmotions.com/ 'https://softmotions.com/')
 ## 
-- CSS/SASS/HTML
-- CSS-in-JS/Styled-Components 💅🏾
+- CSS/HTML
+- Tailwind
 - JavaScript/TypeScript ⭐️  
 - Svelte/React 💥
-- NextJS/Svelte Kit
-- GraphQL/REST
+- NextJS
+- GraphQL/REST/WebSockets
 - NodeJS
-- PostgreSQL/MySQL
-- Strapi CMS 👀
+- PostgreSQL/MySQL/MongoDB
+- Strapi CMS
+- WordPress 👀
 ##
